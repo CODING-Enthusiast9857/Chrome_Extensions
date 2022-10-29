@@ -1,0 +1,10 @@
+{
+    "name":"Random Joke Generator",
+    "description":"This is random joke generator. You can get a new Joke on each click.",
+    "version":"1.0",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"fav48.png"
+    }
+}
