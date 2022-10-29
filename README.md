@@ -1,4 +1,4 @@
-# Chrome_Extensions
+# Chrome Extensions
 
 ## This repository contains chrome extensions. 
 
