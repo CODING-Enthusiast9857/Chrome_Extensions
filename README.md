@@ -1,6 +1,6 @@
 # Chrome_Extensions
 
-##This repository contains for chrome extensions. 
+## This repository contains chrome extensions. 
 
 # ❓ What is an extension
 Extensions are software programs, built on web technologies such as HTML, CSS, and JavaScript that enable users to customize the Chrome browsing experience.
