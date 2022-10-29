@@ -1,0 +1,16 @@
+{
+    "name":"Ad-blocker",
+    "version":"1.0",
+    "description":"Ad-blocker is the best ad blocker for your web browser. It can block tracking scripts, banners, annoying pop-up ads and much more.",
+    "permissions":["webRequest","webRequestBlocking","<all_urls>"],
+    "manifest_version":2,
+    "background":{
+        "scripts":["background.js"]
+    },
+    "icons":{
+        "16":"Icons/fav16.png",
+        "48":"Icons/fav48.png",
+        "64":"Icons/fav64.png",
+        "128":"Icons/fav128.png"
+    }
+}
