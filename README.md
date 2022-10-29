@@ -2,7 +2,7 @@
 
 ##This repository contains for chrome extensions. 
 
-# ❓ what is Extension
+# ❓ What is an extension
 Extensions are software programs, built on web technologies such as HTML, CSS, and JavaScript that enable users to customize the Chrome browsing experience.
 
 # 📝 Steps to add chrome extension in your browser
