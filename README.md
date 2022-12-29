@@ -20,3 +20,9 @@ Extensions are software programs, built on web technologies such as HTML, CSS, a
 - It can also be used to remove unwanted website elements such as pop-up ads and features such as auto-play for online videos
 - It helps you personalize and customize the way Google Chrome works for you
 - It helps you to become more productive
+
+# 📝 Licensed by 
+#### Apache License 2.0
+
+# 👸🏻 Created by 
+Created with 🤍 by (◔◡◔) <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane.</a>
